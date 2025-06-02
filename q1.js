@@ -3,4 +3,4 @@
 //use gcet - to create a new database or switch if already exists
 //show collections - to display existing collections(tables)
 //db.createCollection("employees")
-//show collections
+//show collectionswwww
